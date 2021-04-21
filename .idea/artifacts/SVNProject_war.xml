@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SVNProject:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>SVNProject</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="SVNProject-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SVNProject:war exploded" />
+    </root>
+  </artifact>
+</component>
